@@ -8,4 +8,4 @@ Scrapes prefiltered ammoseek search queries to find the current cheaper Cost Per
 
 Winn Dixie
 ----------
-Scrapes Winn Dixie's weekly ad for sales. Notifies the user when T-Bone steaks are on sale.
+Winn Dixie grocery stores have for decades dubbed themselves "The Beef People", and rightfully so - as their steaks are of excellent quality for an unbeatable price. This is especially true when they go on sale. This script is designed to scrape Winn Dixie's weekly ad for sales on T-bone steaks. The script ideally should be ran twice a week using Windows scheduler, and sends a notification to the user when steaks are on sale.
