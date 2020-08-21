@@ -3,7 +3,7 @@ A series of python scripts designed to monitor website marketplaces for particul
 
 Ammoseek
 ----------
-Scrapes prefiltered ammoseek search queries to find the current cheaper Cost Per Round (CPR) of the of a set firearms caliber. The current configuration parses lowest cpr of the .223 rifle caliber from BassPro and Cabela's. If an item is stocked at a CPR below the set threshold, a push notification will be sent to the user's device(s) displaying the supplying vendor and the cost. The script checks prices every 5 minutes, and upon notification will pause for an hour.
+Scrapes prefiltered ammoseek search queries to find the current cheaper Cost Per Round (CPR) of the of a set caliber. The current configuration parses lowest cpr of the .223 caliber from BassPro and Cabela's. If an item is stocked at a CPR below the set threshold, a push notification will be sent to the user's device(s) displaying the supplying vendor and the cost. The script checks prices every 5 minutes, and upon notification will pause for an hour.
 
 
 Winn Dixie
